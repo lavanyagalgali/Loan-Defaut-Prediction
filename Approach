@@ -1,0 +1,18 @@
+Approach for the Loan Default Prediction
+Problem Statement: 
+MyHom is a finance company that lends housing loans at the best and most affordable interest rates to customers. In recent times, the company incurred heavy losses due to loan defaults. Most applicants failed to repay the loan as per the promissory note.
+In order to avoid such losses, the company has decided to build a system for identifying the loan defaulters automatically based on data. This will help the company to identify the potential applicants and ensure the smooth running of the entire process.
+
+Approach: 
+•	Load and Audit the data (Pandas, Numpy)
+•	Data preparation and Data Transformation (Pandas, Numpy, Sklearn)
+•	  - a) Missing Value Imputation 
+•	  - b) Fix for inconsistencies
+    - c) Transform/Encode discrete variables
+•	Data Visualization (Matplotlib, Seaborn)
+•	Data Analysis (Pandas, Sklearn)
+•	  - a) Univariate Analysis  
+•	  - b) Bivariate Analysis (Correlation) 
+  - c) Multi-Variate – Random forest classifier, RandomizeSearchCV, Logistic Regression
+•	Model Evaluation (Classification Report, Accuracy, F1) (Sklearn)
+
